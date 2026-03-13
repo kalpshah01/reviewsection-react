@@ -15,7 +15,7 @@ export default function Post() {
 
   return (<>
         <div className="head">
-      <h1>Post Title</h1>
+      <h1> Instagram Post</h1>
     </div>
     <div className="post">
 
